@@ -1,4 +1,4 @@
-# **Coffee Shop Sales Analysis & Dashboard**
+# **Coffee Shop Sales Analysis Dashboard**
 
 Welcome to the **Coffee Shop Sales Analysis** repository! This project features an interactive **Tableau Dashboard** created to analyze transactional data from a coffee shop, helping business owners understand revenue patterns, peak operating hours, and customer product preferences.
 
