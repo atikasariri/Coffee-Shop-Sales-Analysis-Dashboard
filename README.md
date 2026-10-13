@@ -1,6 +1,16 @@
 # **Coffee Shop Sales Analysis Dashboard**
 
-Welcome to the **Coffee Shop Sales Analysis** repository! This project features an interactive **Tableau Dashboard** created to analyze transactional data from a coffee shop, helping business owners understand revenue patterns, peak operating hours, and customer product preferences.
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/views/STUDYCASEREVOU_17649675015860/Dashboard1)
+[![Domain](https://img.shields.io/badge/Domain-Retail%20&%20F%26B%20Analytics-orange)](#)
+[![Role](https://img.shields.io/badge/Role-Business%20Analyst-green)](#)
+
+
+_**Business Overview & Problem Statement**_
+
+Retail coffee shop management frequently struggles with limited visibility into multi-branch transaction patterns, hourly customer traffic surges, and regional performance trends. Without clear operational and sales insights, stores often face:
+* Inefficient shift scheduling and staffing during non-peak vs. peak hours.
+* Untargeted promotional strategies that fail to maximize top-line revenue.
+* Lack of inventory optimization across top-selling product categories.
 
 
 _**Live Interactive Dashboard**_
@@ -9,17 +19,28 @@ _**Live Interactive Dashboard**_
 <img width="800" height="409" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/a8381354-c96f-41d6-9bd6-d886500d9354" width="800">
 </p>
 
+_**Data Architecture & Tools Used**_
 
- You can view and interact with the full dashboard online via Tableau Public:
- **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/STUDYCASEREVOU_17649675015860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** 
+* **Dashboarding & Data Visualization:** Tableau Public
+* **Data Processing:** Data Cleaning & Transformation via Structured Tabular Dataset
+* **Core Analytics Focus:** Sales Performance, Peak-Hour Transaction Trends, Top 5 Best-Selling Products, Category-Wise Revenue Distribution
 
 
-_**Key Insights & Analytics Focus**_
+_**Key Business Insights**_
 
-* **Sales & Revenue Performance:** Tracking Total Revenue, Total Orders, and Average Order Value (AOV) across different store locations.
-* **Peak Business Hours:** Visualizing hourly and daily sales distribution to identify peak rush hours for better staff management.
-* **Product Category Analysis:** Heatmaps and bar charts highlighting top-performing beverages and food items.
-* **Order Size & Cross-Selling:** Analyzing customer ordering behavior to uncover bundling opportunities.
+1. **Peak Transaction Hours:** 
+   * Transaction surges concentrate heavily during specific morning and afternoon windows, highlighting exact windows requiring maximum customer-facing staff.
+2. **Product Category Performance:** 
+   * A core group of top-selling products drives the majority of daily revenue, confirming the importance of prioritized inventory restocking.
+3. **Branch & Regional Trends:** 
+   * Revenue distribution across branches reveals distinct purchasing volumes, allowing leadership to tailor localized promotional campaigns.
+
+
+_**Strategic Business Recommendations**_
+
+* **Operational Shift Reallocation:** Adjust barista and floor-staff scheduling based on peak-hour transaction patterns to reduce customer wait times and improve service throughput.
+* **Targeted Time-Based Promotions:** Introduce bundle promotions during lower-traffic hours to balance customer flow and boost off-peak revenue.
+* **Inventory & Stock Optimization:** Ensure 100% stock availability for top-selling product categories to prevent stockouts and protect top-line growth.
 
 
 _**Project Structure**_
